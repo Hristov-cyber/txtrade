@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/txtrade/static/css/main.36e8a2d1.css",
+    "main.js": "/txtrade/static/js/main.cc374108.js",
+    "static/media/HeroBlue.mp4": "/txtrade/static/media/HeroBlue.41758dd83fe5787cdee1.mp4",
+    "static/media/GoGreen.mp4": "/txtrade/static/media/GoGreen.8723581e5cee3f5239f0.mp4",
+    "static/media/GoBlueGo.mp4": "/txtrade/static/media/GoBlueGo.e2426bb2356487ab9a85.mp4",
+    "static/media/GoPink.mp4": "/txtrade/static/media/GoPink.c83fb73af45840af3903.mp4",
+    "index.html": "/txtrade/index.html",
+    "main.36e8a2d1.css.map": "/txtrade/static/css/main.36e8a2d1.css.map",
+    "main.cc374108.js.map": "/txtrade/static/js/main.cc374108.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36e8a2d1.css",
+    "static/js/main.cc374108.js"
+  ]
+}

@@ -32,7 +32,7 @@ const App = () => {
           <Route path='SquareTwo' element={ <SquareTwo /> } />
 
         </Routes>
-        <HeroSection />
+        <HeroSection  />
         <Products />
         <SquareFour />
         <SquareThree />

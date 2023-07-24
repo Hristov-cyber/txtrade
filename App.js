@@ -39,6 +39,7 @@ const App = () => {
         <SquareThree />
         <SquareTwo />
         <Contact />
+        <SquareTwo />
       </>
 
   );
